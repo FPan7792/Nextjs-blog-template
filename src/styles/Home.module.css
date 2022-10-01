@@ -1,5 +1,9 @@
 .container {
   padding: 0 2rem;
+  height: 100vh;
+  font-family: "Poppins", "Arial", sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .main {

@@ -1,0 +1,6 @@
+{
+  "navigation": [
+    { "title": "Accueil", "route": "/" },
+    { "title": "Articles", "route": "/articles/all" }
+  ]
+}
